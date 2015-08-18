@@ -1,0 +1,7 @@
+ * Documentar que se devuelve por copia, que todas las clases tienen que ser seguras de copiar (usar boost::shared_ptr).
+
+ * Ver por qué no funca la macro ($SolutionDir) en los additional include directories
+
+ * Test automático de C++.
+
+ * Documentar directorios de boost: includes y stage (libs).
